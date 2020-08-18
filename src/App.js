@@ -4,6 +4,7 @@ import Series from './NetflixDetailCode';
 function App() {
   return (
     <div>
+    <h1 className="heading_style">List of top 5 Netflix Series in 2020</h1>
     <Series 
     imgsrc="https://picsum.photos/200/300"
     sname="A Netflix Original series"
